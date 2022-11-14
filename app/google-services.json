@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29818788780",
+    "project_id": "fusechatapp-db53c",
+    "storage_bucket": "fusechatapp-db53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29818788780:android:b19a097bbe07e2cc22f809",
+        "android_client_info": {
+          "package_name": "com.example.fusechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29818788780-rn41vi48kjlbddu4s54pkof6ckvqk6k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fusechatapp",
+            "certificate_hash": "2e2b6b98ffe5b66b31aeeb7c27266d82fc5921ec"
+          }
+        },
+        {
+          "client_id": "29818788780-hrv78n3j17387l7duigur4ke6vvsvdtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2v7d3m-vIfLW2EkYcLAEiHLcklrDyOgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29818788780-hrv78n3j17387l7duigur4ke6vvsvdtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
